@@ -1,0 +1,39 @@
+ body{
+    font-family:Verdana;
+ }
+ #get-started{
+    background-color: rgb(13, 128, 9);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 18px;
+    margin-left: 2px;
+    font-size: 15px;
+    font-weight: 400;
+
+    
+}
+#pro{
+   color: rgb(95, 95, 95);
+   font-size: 16px;
+   margin: 0;
+}
+#first{
+   width: 280px;
+}
+h1{
+   font-size: 22px;
+   margin-bottom: 5px;
+}
+#header{
+   margin-left: 8px;
+} 
+#p1{
+   align-items: center;
+   margin-left: 50px;
+}
+#learn{
+   align-items: center;
+   color: rgba(13, 13, 243, 0.87);
+   margin-left: 100px;
+}

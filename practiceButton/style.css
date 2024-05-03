@@ -1,0 +1,132 @@
+body{
+    font-family: var(--bs-font-sans-serif);
+}
+#subscribe{
+    background-color: #cc0000;
+    color:#fff;
+    border: none;
+    padding: 10px 24px;
+    margin-right: 8px;
+    font-size: 14px;
+    transition: opacity, 0.15s;
+    cursor: pointer;
+}
+#join{
+    background-color: #fff;
+    color:#065fd4;
+    border: 1px solid #065fd4;
+    padding: 10px 14px;
+    border-radius: 2px;
+    margin-left: 8px;
+    transition: background-color, 0.15s;
+    cursor: pointer;
+    
+
+
+}
+#tweet{
+    background-color: #1d9bf0;
+    color:#fff;
+    border: none;
+    padding: 10px 16px;
+    border-radius: 20px;
+    font-weight: bold;
+    font-size: 14px;
+    margin-left: 8px;
+    transition: box-shadow, 0.15s;
+    cursor: pointer;
+
+}
+#subscribe:hover{
+    opacity: 0.8;
+}
+#join:hover{
+    background-color: #065fd4;
+    color:#fff;
+}
+#join:active{
+   opacity: 0.7;
+}
+#tweet:hover{
+    box-shadow:4px 4px 10px rgb(226, 224, 224) ;
+}
+#request{
+    background-color: #000;
+    color: #fff;
+    padding: 10px 24px;
+    margin-left: 8px;
+    font-size: 14px;
+}
+#add{
+    background-color: rgb(255,216,20);
+    color :black;
+    padding: 10px 50px;
+    margin-left: 8px;
+    border-radius: 20px;
+    font-size: 14px;
+    border: none;
+
+}
+#sign-up{
+    background-color: rgb(46,164,79);
+    color: white;
+    padding: 7px 18px;
+    margin-left: 8px;
+    border-radius: 3px;
+    border: none;
+}
+#get-started{
+    background-color: rgb(121,82,179);
+    color: #fff;
+    border: none;
+    border-radius: 2px;
+    padding: 10px 28px;
+    margin-left: 8px;
+    
+}
+#download{
+    background-color:#fff;
+    color:  rgb(108,117,125);
+    border: 1px solid rgb(108,117,125);
+    border-radius: 2px;
+    padding: 10px 28px;
+    margin-left: 8px;
+
+}
+#apply-to-website{
+    background-color: rgb(10,102,194);
+    color: #fff;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 28px;
+    margin-left: 8px;
+    
+}
+#save{
+    background-color:#fff;
+    color:   rgb(10,102,194);
+    border: 1px solid  rgb(10,102,194) ;
+    border-radius: 20px;
+    padding: 10px 24px;
+    margin-left: 8px;
+
+}
+#buy-now{
+    background-color: rgb(255,164,28);
+    color :black;
+    padding: 10px 50px;
+    margin-left: 8px;
+    border-radius: 20px;
+    font-size: 14px;
+    border: none;
+
+}
+a{
+    color: rgb(0,113,133);
+
+}
+#price{
+    color: rgb(0,118,0);
+    font-size: large;
+    font-weight: 500;
+}
